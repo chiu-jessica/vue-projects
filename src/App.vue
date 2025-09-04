@@ -11,7 +11,7 @@ import PersonalityQuiz from "./pages/PersonalityQuiz.vue"
 import QuizResult from "./pages/QuizResult.vue"
 import NavBar from "./components/NavBar.vue"
 import PasswordGen from "./pages/PasswordGen.vue"
-import WeatherPage from "./pages/Weather.vue"
+import WeatherPage from "./pages/weather/Weather.vue"
 import AgendaPage from "./pages/Agenda.vue"
 const routes = {
   "/": IndexPage,
