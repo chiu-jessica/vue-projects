@@ -1,4 +1,4 @@
-# test_site
+# Vue Projects
 This repository contains a collection of Vue.js projects, each exploring different features and real-world use cases of Vue. It serves as both a personal learning archive and a reference for others interested in Vue development.
 
 ## Project setup
